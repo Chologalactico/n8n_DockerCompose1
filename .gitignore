@@ -1,1 +1,13 @@
+# Archivos sensibles
 .env
+
+# Carpetas con datos persistentes
+db-data/
+n8n-data/
+
+# Carpeta de logs (si la usas)
+logs/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
