@@ -15,14 +15,14 @@ Este repositorio contiene una configuración lista para usar de **n8n** y **Post
 ---
 
 ## 📂 Estructura del proyecto
-
+```bash
 n8n-docker-compose/
 │── docker-compose.yml
 │── .env
 │── db-data/ # Datos persistentes de PostgreSQL
 │── n8n-data/ # Datos persistentes de n8n (workflows, credenciales, etc.)
 └── README.md
-
+```
 ---
 
 ## ⚙️ Configuración previa
