@@ -6,6 +6,7 @@ permitiendo ejecutar un entorno de automatización robusto, persistente y fácil
 ## 📋 Requisitos Previos
 
 - Docker y Docker Compose instalados
+- NodeJS instalado
 - Puertos disponibles: 5678 (n8n), 5432 (PostgreSQL), 6379 (Redis)
 - Mínimo 2GB de RAM disponible
 
